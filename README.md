@@ -1,2 +1,3 @@
 # Chedder  
-A scuffed take at chess
+One of my first github repos!  
+Suggestions Welcome!
